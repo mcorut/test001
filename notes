@@ -1,0 +1,14 @@
+//pwd
+//mkdir projects
+//cd projects
+
+//git config --global user.name "mcorut"
+//git config --global user.email "mesutcorut@hotmail.com"
+//git config --global --list
+
+////adres github üzerinde oluşturulan repository clone adresinden alınır;
+//git clone https://github.com/mcorut/deleteme.git
+//ls
+//cd deleteme
+//ls
+//git status
