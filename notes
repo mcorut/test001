@@ -12,3 +12,13 @@
 //cd deleteme
 //ls
 //git status
+
+//echo "Test quick start demo" >>start.txt
+//ls
+//cat start.txt
+//git status
+//git add start.txt
+// git commit -m "Adding start text file"
+//git status
+//git push origin master
+////bu aşamada kullanıcı adı ve şifre soruluyor...
